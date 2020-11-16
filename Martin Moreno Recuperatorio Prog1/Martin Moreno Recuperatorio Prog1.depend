@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605570136 source:c:\users\osvaldo del rio\desktop\cosas de martín\ej martín\martin moreno recuperatorio prog1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
